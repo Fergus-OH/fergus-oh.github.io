@@ -1,1 +1,1 @@
-Website in progress: [fergus-oh.github.io](fergus-oh.github.io)
+Website in progress: [fergus-oh.github.io](https://www.fergus-oh.github.io)
