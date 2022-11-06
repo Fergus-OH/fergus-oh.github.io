@@ -1,15 +1,13 @@
 ---
-title:
+title: homepage
 layout: single
 author_profile: true
-# toc: true
-# toc_sticky: true
 sidebar:
   nav: "sidenav"
 ---
 
 
-# About mee
+# About me
 
 sample text
 
