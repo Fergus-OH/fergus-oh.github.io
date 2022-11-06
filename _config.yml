@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Fergus O'Hanlon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_6726_crop.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Mathematics graduate with a passion for Machine Learning."
   # location         : "Somewhere"
   email            : "fergusohanlon@gmail.com"
