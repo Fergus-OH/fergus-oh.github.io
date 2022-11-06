@@ -1,8 +1,11 @@
 ---
 layout: single
 author_profile: true
-toc: true
-toc_sticky: true
+# toc: true
+# toc_sticky: true
+sidebar:
+  - title: "Education"
+    url: "/#education"
 ---
 
 
