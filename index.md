@@ -6,8 +6,8 @@ author_profile: true
 sidebar:
   - title: "About me"
     children:
-        - title: "Education"
-            url: https://Fergus-OH.github.io/projects/
+      - title: "Education"
+        url: https://Fergus-OH.github.io/projects/
 ---
 
 
