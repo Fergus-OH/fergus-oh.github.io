@@ -17,4 +17,4 @@ sidenav:
   - title: About me
     children:
       - title: "Education"
-        url: https://Fergus-OH.github.io/projects/
+        url: https://fergus-oh.github.io/#education
