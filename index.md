@@ -7,7 +7,7 @@ sidebar:
   - title: "About me"
     children:
         - title: "Education"
-            url: /#education/
+            url: https://Fergus-OH.github.io/projects/
 ---
 
 
