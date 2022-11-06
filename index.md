@@ -1,4 +1,5 @@
 ---
+title:
 layout: single
 author_profile: true
 # toc: true
@@ -8,7 +9,7 @@ sidebar:
 ---
 
 
-# About me
+# About mee
 
 sample text
 

@@ -15,13 +15,13 @@ main:
 
 sidenav:
   - title: "About me"
-    url: /#about-me/
+    url: /#about-mee
   - title: "Education"
-    url: /#education/
+    url: /#education
   - title: "Programming Skills"
-    url: /#programming-skills/
+    url: /#programming-skills
   - title: "Contact me"
-    url: /#contact-me/
+    url: /#contact-me
   # - title:
   #   url:
   # - title:
