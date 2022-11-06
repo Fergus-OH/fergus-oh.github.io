@@ -4,10 +4,7 @@ author_profile: true
 # toc: true
 # toc_sticky: true
 sidebar:
-  - title: About me
-    children:
-      - title: "Education"
-        url: https://Fergus-OH.github.io/projects/
+  nav: "sidenav"
 ---
 
 
