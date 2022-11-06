@@ -15,7 +15,7 @@ main:
 
 sidenav:
   - title: "About me"
-    url: /#about-mee
+    url: /#about-me
   - title: "Education"
     url: /#education
   - title: "Programming Skills"
